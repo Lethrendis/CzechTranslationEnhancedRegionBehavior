@@ -6,7 +6,7 @@
     "TrapDamageRollMessage": "Hod na zásah pasti",
     "regionClickedLabel": "Kliknuto na oblast",
     "Settings": {
-      "globalOnChangeName": "Povolit událost ´onChange´ u všech chování oblastí",
+      "globalOnChangeName": "Povolit ´onChange´ u všech chování?",
       "globalOnChangeHint": "Povolením této možnosti umožníš výběr události ´onChange´ pro všechna chování oblastí. Některá chování mohou při aktivaci této události přestat fungovat, používej to proto opatrně."
     },
     "Regions": {
