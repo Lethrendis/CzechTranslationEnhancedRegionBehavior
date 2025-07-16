@@ -1,10 +1,10 @@
 
 # CzechVision5e
 
-Czech translation of Enhanced Region Behavior 1.2.0.
+Czech translation of Enhanced Region Behavior 1.3.0.
 
 ## Popis
-Tento modul poskytuje českou lokalizaci pro Enhanced Region Behavior verze 1.2.0. Obsahuje překlady základních textů aplikace.
+Tento modul poskytuje českou lokalizaci pro Enhanced Region Behavior verze 1.3.0. Obsahuje překlady základních textů aplikace.
 
 ## Instalace
 Pro instalaci modulu obvyklým způsobem můžeš použít následující odkaz ve Foundry VTT:
