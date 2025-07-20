@@ -126,7 +126,7 @@
         "FIELDS": {
           "journalId": {
             "label": "ID záznamu",
-            "hint": "Jedinečné ID záznamu, který se má otevřít. Má přednost před názvem záznamu, pokud jsou zadány oba."
+            "hint": "Jedinečné ID záznamu, který se má otevřít. Má přednost před názvem záznamu, pokud je zadáno obojí."
           },
           "journalName": {
             "label": "Název zázmamu",
@@ -137,7 +137,7 @@
             "hint": "Konkrétní ID stránky záznamů, která se má zobrazit (volitelné)."
           },
           "showToAll": {
-            "label": "Zobrazit všem hráčům",
+            "label": "Zobrazit všem hráčům?",
             "hint": "Je-li zaškrtnuto, záznam se zobrazí všem hráčům. Jinak pouze spouštějícímu hráči, nebo vlastníkovi tokenu."
           }
         }
